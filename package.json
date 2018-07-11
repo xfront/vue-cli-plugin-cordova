@@ -1,14 +1,14 @@
 {
-  "name": "vue-cli-plugin-cordova",
+  "name": "vue-cli-plugin-cordova-f7",
   "version": "1.0.0-beta.7",
-  "description": "vue-cli 3.x plugin for Apache Cordova",
+  "description": "vue-cli 3.x plugin for Apache Cordova+Framework7(v3)",
   "main": "index.js",
   "scripts": {
     "release": "standard-version"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dekimasoon/vue-cli-plugin-cordova.git"
+    "url": "git+https://github.com/xfront/vue-cli-plugin-cordova.git"
   },
   "keywords": [
     "vue",
@@ -18,9 +18,9 @@
   "author": "dekimasoon",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dekimasoon/vue-cli-plugin-cordova/issues"
+    "url": "https://github.com/xfront/vue-cli-plugin-cordova/issues"
   },
-  "homepage": "https://github.com/dekimasoon/vue-cli-plugin-cordova#readme",
+  "homepage": "https://github.com/xfront/vue-cli-plugin-cordova#readme",
   "dependencies": {
     "@vue/cli-shared-utils": "^3.0.0-beta.6",
     "address": "^1.0.3",
